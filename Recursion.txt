@@ -1,0 +1,4 @@
+1) Function calling itself again and again.
+2) For trees and graphs, we use recursion extensively.
+3) We use it for big problems an dthen break it down to the smallest way possible.
+4) Always mention base case, we already know result, so we specify condition.
